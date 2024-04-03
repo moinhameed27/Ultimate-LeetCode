@@ -1,4 +1,13 @@
+Day -- > 1
+{
+925. Long Pressed Name
+// Two Pointers
+Link:
+https://leetcode.com/problems/long-pressed-name/
+}
+
 --> Day 2
+{
 79. Word Search
 // BackTracking
 Link:
@@ -13,3 +22,4 @@ https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 // When character 'i' is found, reverse the string otherwise add to it
 Link:
 https://leetcode.com/problems/faulty-keyboard/
+}
