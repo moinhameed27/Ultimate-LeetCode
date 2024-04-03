@@ -23,3 +23,10 @@ https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 Link:
 https://leetcode.com/problems/faulty-keyboard/
 }
+
+--> Day 3
+{
+881. Boats to Save People
+Link:
+https://leetcode.com/problems/boats-to-save-people/
+}
