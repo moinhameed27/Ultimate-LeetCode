@@ -1,0 +1,4 @@
+881. Boats to Save People
+// Two Pointers
+Link:
+https://leetcode.com/problems/boats-to-save-people/
