@@ -34,3 +34,10 @@ https://leetcode.com/problems/boats-to-save-people/
 Link:
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 }
+
+--> Day 4
+{
+1877. Minimize Maximum Pair Sum in Array
+Link:
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+}
