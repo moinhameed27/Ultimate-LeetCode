@@ -1,7 +1,6 @@
 Day -- > 1
 {
 925. Long Pressed Name
-// Two Pointers
 Link:
 https://leetcode.com/problems/long-pressed-name/
 }
@@ -9,17 +8,14 @@ https://leetcode.com/problems/long-pressed-name/
 --> Day 2
 {
 79. Word Search
-// BackTracking
 Link:
 https://leetcode.com/problems/word-search/
 
 1832. Check if the Sentence Is Pangram
-// Store the frequency and check for missing characters
 Link:
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
 2810. Faulty Keyboard
-// When character 'i' is found, reverse the string otherwise add to it
 Link:
 https://leetcode.com/problems/faulty-keyboard/
 }
@@ -29,10 +25,6 @@ https://leetcode.com/problems/faulty-keyboard/
 881. Boats to Save People
 Link:
 https://leetcode.com/problems/boats-to-save-people/
-
-1614. Maximum Nesting Depth of the Parentheses
-Link:
-https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 }
 
 --> Day 4
@@ -40,4 +32,12 @@ https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 1877. Minimize Maximum Pair Sum in Array
 Link:
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+
+344. Reverse String
+Link:
+https://leetcode.com/problems/reverse-string/
+
+345. Reverse Vowels of a String
+Link:
+https://leetcode.com/problems/reverse-vowels-of-a-string/
 }
