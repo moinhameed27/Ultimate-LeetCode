@@ -1,0 +1,4 @@
+1877. Minimize Maximum Pair Sum in Array
+// Two Pointers
+Link:
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
