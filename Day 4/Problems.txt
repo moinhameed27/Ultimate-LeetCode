@@ -2,3 +2,14 @@
 // Two Pointers
 Link:
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+
+344. Reverse String
+// Two Pointers
+Link:
+https://leetcode.com/problems/reverse-string/
+
+345. Reverse Vowels of a String
+// Two Pointers
+Link:
+https://leetcode.com/problems/reverse-vowels-of-a-string/
+
