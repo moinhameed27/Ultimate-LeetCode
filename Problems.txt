@@ -48,3 +48,10 @@ https://leetcode.com/problems/reverse-vowels-of-a-string/
 Link:
 https://leetcode.com/problems/koko-eating-bananas/
 }
+
+--> Day 6
+{
+2187. Minimum Time to Complete Trips
+Link:
+https://leetcode.com/problems/minimum-time-to-complete-trips/
+}
