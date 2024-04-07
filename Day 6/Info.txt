@@ -1,0 +1,4 @@
+2187. Minimum Time to Complete Trips
+// Binary Search
+Link:
+https://leetcode.com/problems/minimum-time-to-complete-trips/
