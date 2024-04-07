@@ -1,5 +1,6 @@
 class Solution
 {
+    // Check how many hours it'll take to eat all by eating mid bananas per hour
     bool canEatAll(vector<int> &piles, int mid, int h)
     {
         int hours = 0;
