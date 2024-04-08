@@ -1,4 +1,0 @@
-925. Long Pressed Name
-// Two Pointers
-Link:
-https://leetcode.com/problems/long-pressed-name/
