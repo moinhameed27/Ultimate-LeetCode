@@ -4,7 +4,7 @@ public:
         vector<int> freq(26, 0);
         // Storing the frequency of each character
         for(int i = 0; i < sentence.size(); i++)
-            freq[sentence[i] - 'a']++;
+            freq[sentence[i] - 'a']++; 
         
         // If any character is missing, return false
         for(int i = 0; i < 26; i++)
