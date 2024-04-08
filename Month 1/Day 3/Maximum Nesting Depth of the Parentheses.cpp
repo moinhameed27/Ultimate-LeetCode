@@ -4,7 +4,7 @@ public:
     int maxDepth(string s)
     {
         int openBrackets = 0, ans = 0;
-        for (char ch : s)
+        for (char ch : s) 
         {
             // If found '(', increment the counter
             if (ch == '(')
