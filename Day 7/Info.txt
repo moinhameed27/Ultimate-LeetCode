@@ -1,4 +1,0 @@
-134. Gas Station
-// Greedy
-Link:
-https://leetcode.com/problems/gas-station/
