@@ -19,7 +19,7 @@ public:
             else
                 return false;
         }
-        // All characters in name are checked
+        // All characters in name are checked 
         return i == n;
     }
 };
