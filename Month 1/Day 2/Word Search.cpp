@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int m, n;
+    int m, n; 
     // To traverse in all directions
     vector<vector<int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     
