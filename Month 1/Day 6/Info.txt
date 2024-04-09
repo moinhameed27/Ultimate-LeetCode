@@ -2,3 +2,8 @@
 // Binary Search
 Link:
 https://leetcode.com/problems/minimum-time-to-complete-trips/
+
+905. Sort Array by Parity
+// Two Pointers
+Link:
+https://leetcode.com/problems/sort-array-by-parity/
