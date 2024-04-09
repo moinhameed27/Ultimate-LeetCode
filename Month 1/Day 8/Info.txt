@@ -2,3 +2,18 @@
 // Two Pointers || Sorting
 Link:
 https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
+1. Two Sum
+// Brute Force
+Link:
+https://leetcode.com/problems/two-sum/
+
+167. Two Sum II (Input Array is Sorted)
+// Two Pointers
+Link:
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+202. Happy Number
+// Brute Force
+Link:
+https://leetcode.com/problems/happy-number/
