@@ -54,6 +54,10 @@ https://leetcode.com/problems/koko-eating-bananas/
 2187. Minimum Time to Complete Trips
 Link:
 https://leetcode.com/problems/minimum-time-to-complete-trips/
+
+905. Sort Array by Parity
+Link:
+https://leetcode.com/problems/sort-array-by-parity/
 }
 
 --> Day 7
