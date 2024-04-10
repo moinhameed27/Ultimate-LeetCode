@@ -1,0 +1,9 @@
+169. Majority Element
+// Frequency Counting || Boyer-Moore Voting Algorithm
+Link:
+https://leetcode.com/problems/majority-element/
+
+153. Find Minimum in Rotated Sorted Array
+// Binary Search
+Link:
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
