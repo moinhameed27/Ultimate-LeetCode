@@ -6,7 +6,7 @@ class Solution
             (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U'))
             return true;
         return false;
-    }
+    } 
 
 public:
     string reverseVowels(string s)
