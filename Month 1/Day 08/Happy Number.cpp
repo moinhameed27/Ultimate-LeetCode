@@ -5,7 +5,7 @@ public:
     {
         while (n > 9)
         {
-            int sum = 0;
+            int sum = 0; 
             int dup = n;
             while (dup > 0)
             {
