@@ -4,7 +4,7 @@ Link:
 https://leetcode.com/problems/word-search/
 
 1832. Check if the Sentence Is Pangram
-// Store the frequency and check for missing characters
+// Store the frequency and check for missing characters 
 Link:
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
