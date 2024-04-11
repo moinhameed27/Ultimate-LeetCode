@@ -100,3 +100,18 @@ https://leetcode.com/problems/majority-element/
 Link:
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 }
+
+Day --> 10
+{
+2000. Reverse Prefix of Word
+Link:
+https://leetcode.com/problems/reverse-prefix-of-word/
+
+349. Intersection of Two Arrays
+Link:
+https://leetcode.com/problems/intersection-of-two-arrays/
+
+350. Intersection of Two Arrays II 
+Link:
+https://leetcode.com/problems/intersection-of-two-arrays-ii/
+}
