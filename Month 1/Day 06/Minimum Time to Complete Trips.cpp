@@ -2,7 +2,7 @@ class Solution
 {
 public:
     long long minimumTime(vector<int> &time, int totalTrips)
-    {
+    { 
         // Minimum time to complete one trip
         long long start = 1;
         // Here we can take any large value like 1e14 and check in between
