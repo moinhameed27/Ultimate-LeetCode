@@ -7,7 +7,7 @@ public:
         while (j < t)
         {
             // If characters match in both strings
-            if (name[i] == typed[j])
+            if (name[i] == typed[j]) 
             {
                 i++;
                 j++;
