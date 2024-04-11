@@ -1,0 +1,14 @@
+2000. Reverse Prefix of Word
+// Two Pointers
+Link:
+https://leetcode.com/problems/reverse-prefix-of-word/
+
+349. Intersection of Two Arrays
+// Brute Force || Set
+Link:
+https://leetcode.com/problems/intersection-of-two-arrays/
+
+350. Intersection of Two Arrays II 
+// Two Pointers
+Link:
+https://leetcode.com/problems/intersection-of-two-arrays-ii/
