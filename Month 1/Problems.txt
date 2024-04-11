@@ -1,6 +1,6 @@
 Day -- > 1
 {
-925. Long Pressed Name
+925. Long Pressed Name 
 Link:
 https://leetcode.com/problems/long-pressed-name/
 }
