@@ -1,6 +1,6 @@
 class Solution
 {
-public:
+public: 
     int numRescueBoats(vector<int> &people, int limit)
     {
         int i = 0, j = people.size() - 1;
