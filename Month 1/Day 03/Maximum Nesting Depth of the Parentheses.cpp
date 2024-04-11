@@ -6,7 +6,7 @@ public:
         int openBrackets = 0, ans = 0;
         for (char ch : s) 
         {
-            // If found '(', increment the counter
+            // If found '(', increment the counter 
             if (ch == '(')
                 openBrackets++;
             // If found ')', decrement the counter
