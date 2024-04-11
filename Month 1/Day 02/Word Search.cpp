@@ -5,7 +5,7 @@ public:
     vector<vector<int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     
     bool find(vector<vector<char>>& board, int i, int j, int idx, string &word)
-    {
+    { 
         // If word is found in the board
         if(idx == word.size())
             return true;
