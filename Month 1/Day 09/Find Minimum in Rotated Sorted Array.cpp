@@ -6,7 +6,7 @@ public:
         int start = 0, middle, end = nums.size() - 1;
         while (start < end)
         {
-            middle = (start + end) / 2;
+            middle = (start + end) / 2; 
             if (nums[middle] < nums[end])
                 end = middle;
             else
