@@ -4,7 +4,7 @@ public:
         
         int carry;
         
-        while(b != 0)
+        while(b != 0) 
         {
             carry = a & b;
             a = a ^ b;
