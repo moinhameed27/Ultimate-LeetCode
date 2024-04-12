@@ -126,3 +126,10 @@ https://leetcode.com/problems/sum-of-two-integers/
 Link:
 https://leetcode.com/problems/shuffle-the-array/
 }
+
+Day --> 12
+{
+1963. Minimum Number of Swaps to Make the String Balanced
+Link:
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+}
