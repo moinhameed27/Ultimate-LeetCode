@@ -1,6 +1,6 @@
 Day -- > 1
 {
-925. Long Pressed Name 
+925. Long Pressed Name
 Link:
 https://leetcode.com/problems/long-pressed-name/
 }
@@ -114,4 +114,15 @@ https://leetcode.com/problems/intersection-of-two-arrays/
 350. Intersection of Two Arrays II 
 Link:
 https://leetcode.com/problems/intersection-of-two-arrays-ii/
+}
+
+Day --> 11
+{
+371. Sum of Two Integers
+Link:
+https://leetcode.com/problems/sum-of-two-integers/
+
+1470. Shuffle the Array
+Link:
+https://leetcode.com/problems/shuffle-the-array/
 }
