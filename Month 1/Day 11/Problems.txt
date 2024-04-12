@@ -1,0 +1,9 @@
+371. Sum of Two Integers
+// Bit Manipulation
+Link:
+https://leetcode.com/problems/sum-of-two-integers/
+
+1470. Shuffle the Array
+// Array
+Link:
+https://leetcode.com/problems/shuffle-the-array/
