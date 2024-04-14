@@ -7,7 +7,7 @@ https://leetcode.com/problems/long-pressed-name/
 
 Day --> 2
 {
-79. Word Search  
+79. Word Search
 Link:
 https://leetcode.com/problems/word-search/
 
@@ -132,4 +132,11 @@ Day --> 12
 1963. Minimum Number of Swaps to Make the String Balanced
 Link:
 https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+}
+
+Day --> 13
+{
+2024. Maximize the Confusion of an Exam
+Link:
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 }
