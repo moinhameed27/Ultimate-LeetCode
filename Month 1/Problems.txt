@@ -140,3 +140,10 @@ Day --> 13
 Link:
 https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 }
+
+Day --> 14
+{
+2418. Sort the People
+Link:
+https://leetcode.com/problems/sort-the-people/
+}
