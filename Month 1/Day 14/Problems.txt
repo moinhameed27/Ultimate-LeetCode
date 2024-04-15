@@ -1,0 +1,4 @@
+2418. Sort the People
+// Sorting with respect to heights (Brute Force)
+Link:
+https://leetcode.com/problems/sort-the-people/
