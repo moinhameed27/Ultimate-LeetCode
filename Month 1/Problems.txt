@@ -6,7 +6,7 @@ https://leetcode.com/problems/long-pressed-name/
 }
 
 Day --> 2
-{  
+{
 79. Word Search
 Link:
 https://leetcode.com/problems/word-search/
@@ -146,4 +146,11 @@ Day --> 14
 2418. Sort the People
 Link:
 https://leetcode.com/problems/sort-the-people/
+}
+
+Day --> 15
+{
+1089. Duplicate Zeros
+Link:
+https://leetcode.com/problems/duplicate-zeros/
 }
