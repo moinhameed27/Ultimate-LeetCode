@@ -153,4 +153,8 @@ Day --> 15
 1089. Duplicate Zeros
 Link:
 https://leetcode.com/problems/duplicate-zeros/
+
+821. Shortest Distance to a Character
+Link:
+https://leetcode.com/problems/shortest-distance-to-a-character/
 }
