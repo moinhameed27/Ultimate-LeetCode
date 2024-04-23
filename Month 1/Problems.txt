@@ -158,3 +158,10 @@ https://leetcode.com/problems/duplicate-zeros/
 Link:
 https://leetcode.com/problems/shortest-distance-to-a-character/
 }
+
+Day --> 16
+{
+2160. Minimum Sum of Four Digit Number After Splitting Digits
+Link:
+https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+}
