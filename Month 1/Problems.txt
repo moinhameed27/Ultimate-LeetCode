@@ -3,7 +3,7 @@ Day -- > 1
 925. Long Pressed Name
 Link:
 https://leetcode.com/problems/long-pressed-name/
-} 
+}
 
 Day --> 2
 {
@@ -164,4 +164,11 @@ Day --> 16
 2160. Minimum Sum of Four Digit Number After Splitting Digits
 Link:
 https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+}
+
+Day --> 17
+{
+2370. Longest Ideal Subsequence
+Link:
+https://leetcode.com/problems/longest-ideal-subsequence/
 }
