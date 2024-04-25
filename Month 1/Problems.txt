@@ -172,8 +172,11 @@ Day --> 17
 Link:
 https://leetcode.com/problems/longest-ideal-subsequence/
 
-
 2656. Maximum Sum With Exactly K Elements
 Link:
 https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+
+3. Longest Substring Without Repeating Characters
+Link:
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
 }
