@@ -1,0 +1,9 @@
+2370. Longest Ideal Subsequence
+// Dynamic Programming
+Link:
+https://leetcode.com/problems/longest-ideal-subsequence/
+
+2656. Maximum Sum With Exactly K Elements
+// Greedy
+Link:
+https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/

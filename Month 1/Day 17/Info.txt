@@ -1,4 +1,0 @@
-2370. Longest Ideal Subsequence
-// Dynamic Programming
-Link:
-https://leetcode.com/problems/longest-ideal-subsequence/
