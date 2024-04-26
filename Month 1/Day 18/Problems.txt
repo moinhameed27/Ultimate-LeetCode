@@ -1,0 +1,9 @@
+316. Remove Duplicate Letters
+// Greedy
+Link:
+https://leetcode.com/problems/remove-duplicate-letters/
+
+1081. Smallest Subsequence of Distinct Characters
+// Greedy
+Link:
+https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
