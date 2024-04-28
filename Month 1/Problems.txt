@@ -199,3 +199,10 @@ https://leetcode.com/problems/longest-palindrome/
 Link:
 https://leetcode.com/problems/minimum-falling-path-sum-ii/
 }
+
+Day --> 19
+{
+45. Jump Game II
+Link:
+https://leetcode.com/problems/jump-game-ii/
+}
