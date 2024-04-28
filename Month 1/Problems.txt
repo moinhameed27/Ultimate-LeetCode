@@ -205,4 +205,8 @@ Day --> 19
 45. Jump Game II
 Link:
 https://leetcode.com/problems/jump-game-ii/
+
+5. Longest Palindromic Substring
+Link:
+https://leetcode.com/problems/longest-palindromic-substring/
 }
