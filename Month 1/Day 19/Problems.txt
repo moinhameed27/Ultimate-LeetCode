@@ -1,0 +1,4 @@
+45. Jump Game II
+// Greedy
+Link:
+https://leetcode.com/problems/jump-game-ii/
