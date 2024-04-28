@@ -2,3 +2,8 @@
 // Greedy
 Link:
 https://leetcode.com/problems/jump-game-ii/
+
+5. Longest Palindromic Substring
+// Brute Force + Two Pointers || Recursion + Memoization
+Link:
+https://leetcode.com/problems/longest-palindromic-substring/
