@@ -1,0 +1,4 @@
+66. Plus One
+// Math
+Link:
+https://leetcode.com/problems/plus-one/
