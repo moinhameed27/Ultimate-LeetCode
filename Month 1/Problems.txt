@@ -210,3 +210,10 @@ https://leetcode.com/problems/jump-game-ii/
 Link:
 https://leetcode.com/problems/longest-palindromic-substring/
 }
+
+Day --> 20
+{
+66. Plus One
+Link:
+https://leetcode.com/problems/plus-one/
+}
