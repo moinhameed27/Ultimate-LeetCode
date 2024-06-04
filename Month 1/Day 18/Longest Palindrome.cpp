@@ -7,24 +7,26 @@ string palindrome. All rest odd characters should be removed.
 --> i.e aabccdee = ace_eca (_ can be either b or d but not both)
 */
 
-class Solution {
+class Solution
+{
 public:
-    int longestPalindrome(string s) {
+    int longestPalindrome(string s)
+    {
         int oddCharacters = 0;
+        int n = s.size();
         unordered_map<char, int> freq;
-        for(char ch : s)
+        for (char ch : s)
             freq[ch]++;
-        
-        for(auto i : freq)
+
+        for (auto i : freq)
         {
-            if(i.second % 2 == 1)
+            if (i.second % 2 == 1)
                 oddCharacters++;
         }
-        
-        if(oddCharacters > 1)
-            return s.size() - oddCharacters + 1;
-        
-        return s.size();
-        
+
+        if (oddCharacters > 1)
+            return n - oddCharacters + 1;
+
+        return n;
     }
 };
