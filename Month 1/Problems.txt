@@ -268,3 +268,10 @@ Link:
 https://leetcode.com/problems/hand-of-straights/
 https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 }
+
+Day --> 27
+{
+523. Continuous Subarray Sum
+Link:
+https://leetcode.com/problems/continuous-subarray-sum/
+}
