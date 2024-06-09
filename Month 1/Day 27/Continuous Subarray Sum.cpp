@@ -30,7 +30,7 @@ public:
 };
 
 /*
-Using the Formula:
+Using the Formula: 
 31 % 4 = 3
 31 % (4 * k) = 3 (means with any multiple of 4, modulus will always return 3)
 
