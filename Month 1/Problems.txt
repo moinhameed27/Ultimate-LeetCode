@@ -275,3 +275,11 @@ Day --> 27
 Link:
 https://leetcode.com/problems/continuous-subarray-sum/
 }
+
+Day --> 28
+{
+1051. Height Checker
+Link:
+https://leetcode.com/problems/height-checker/
+}
+
