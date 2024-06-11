@@ -1,4 +1,4 @@
 1122. Relative Sort Array
-// Sorting + Hashing
+// Sorting + Hashing || Counting
 Link:
 https://leetcode.com/problems/relative-sort-array/
