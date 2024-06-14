@@ -5,3 +5,10 @@ Link:
 https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 }
 
+Day --> 2
+{
+945. Minimum Increment to Make Array Unique
+Link:
+https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+}
+
