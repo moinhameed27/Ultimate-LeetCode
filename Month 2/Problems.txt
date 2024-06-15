@@ -12,3 +12,10 @@ Link:
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 }
 
+Day --> 3
+{
+502. IPO
+Link:
+https://leetcode.com/problems/ipo/
+}
+
