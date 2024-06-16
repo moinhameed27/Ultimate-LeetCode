@@ -19,3 +19,10 @@ Link:
 https://leetcode.com/problems/ipo/
 }
 
+Day --> 4
+{
+330. Patching Array
+Link:
+https://leetcode.com/problems/patching-array/
+}
+
