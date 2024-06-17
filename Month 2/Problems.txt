@@ -26,3 +26,10 @@ Link:
 https://leetcode.com/problems/patching-array/
 }
 
+Day --> 5
+{
+633. Sum of Square Numbers
+Link:
+https://leetcode.com/problems/sum-of-square-numbers/
+}
+
