@@ -40,3 +40,10 @@ Link:
 https://leetcode.com/problems/most-profit-assigning-work/
 }
 
+Day --> 7
+{
+1482. Minimum Number of Days to Make m Bouquets
+Link:
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+}
+
