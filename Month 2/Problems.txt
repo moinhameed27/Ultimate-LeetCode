@@ -54,3 +54,10 @@ Link:
 https://leetcode.com/problems/magnetic-force-between-two-balls/
 }
 
+Day --> 9
+{
+1052. Grumpy Bookstore Owner
+Link:
+https://leetcode.com/problems/grumpy-bookstore-owner/
+}
+
