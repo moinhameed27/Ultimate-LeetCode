@@ -1,0 +1,4 @@
+1052. Grumpy Bookstore Owner
+// Sliding Window
+Link:
+https://leetcode.com/problems/grumpy-bookstore-owner/
