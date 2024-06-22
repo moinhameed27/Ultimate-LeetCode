@@ -61,3 +61,10 @@ Link:
 https://leetcode.com/problems/grumpy-bookstore-owner/
 }
 
+Day --> 10
+{
+1248. Count Number of Nice Subarrays
+Link:
+https://leetcode.com/problems/count-number-of-nice-subarrays/
+}
+
