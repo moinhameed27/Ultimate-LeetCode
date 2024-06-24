@@ -1,0 +1,4 @@
+995. Minimum Number of K Consecutive Bit Flips
+// Sliding Window || Queue
+Link:
+https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/?envType=daily-question&envId=2024-06-24
