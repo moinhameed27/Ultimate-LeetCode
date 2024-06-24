@@ -75,3 +75,14 @@ Link:
 https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 }
 
+Day --> 12
+{
+995. Minimum Number of K Consecutive Bit Flips
+Link:
+https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/?envType=daily-question&envId=2024-06-24
+
+3191. Minimum Operations to Make Binary Array Elements Equal to One I
+Link:
+https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
+}
+
