@@ -1,0 +1,4 @@
+1550. Three Consecutive Odds
+// Array
+Link:
+https://leetcode.com/problems/three-consecutive-odds/
