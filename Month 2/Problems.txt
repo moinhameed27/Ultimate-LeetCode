@@ -86,3 +86,12 @@ Link:
 https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/
 }
 
+Day --> 13
+{
+1550. Three Consecutive Odds
+Link:
+https://leetcode.com/problems/three-consecutive-odds/
+}
+
+
+
