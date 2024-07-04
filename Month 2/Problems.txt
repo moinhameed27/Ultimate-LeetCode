@@ -107,5 +107,12 @@ Link:
 https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves
 }
 
+Day --> 16
+{
+2181. Merge Nodes in Between Zeros
+Link:
+https://leetcode.com/problems/merge-nodes-in-between-zeros
+}
+
 
 
