@@ -114,5 +114,12 @@ Link:
 https://leetcode.com/problems/merge-nodes-in-between-zeros
 }
 
+Day --> 17
+{
+2582. Pass the Pillow
+Link:
+https://leetcode.com/problems/pass-the-pillow
+}
+
 
 
