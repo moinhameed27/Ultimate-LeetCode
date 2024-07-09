@@ -135,5 +135,11 @@ Link:
 https://leetcode.com/problems/find-the-winner-of-the-circular-game
 }
 
+Day --> 20
+{
+1701. Average Waiting Time
+Link:
+https://leetcode.com/problems/average-waiting-time
+}
 
 
