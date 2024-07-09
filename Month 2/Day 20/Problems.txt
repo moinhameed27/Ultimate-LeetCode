@@ -1,0 +1,4 @@
+1701. Average Waiting Time
+// Array
+Link:
+https://leetcode.com/problems/average-waiting-time
