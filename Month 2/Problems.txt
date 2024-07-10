@@ -147,6 +147,12 @@ Day --> 21
 1598. Crawler Log Folder
 Link:
 https://leetcode.com/problems/crawler-log-folder
+
+Number of NGEs to the right
+Link:
+https://bit.ly/3Np2R2H
 }
+
+
 
 
