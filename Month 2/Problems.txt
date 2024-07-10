@@ -142,4 +142,11 @@ Link:
 https://leetcode.com/problems/average-waiting-time
 }
 
+Day --> 21
+{
+1598. Crawler Log Folder
+Link:
+https://leetcode.com/problems/crawler-log-folder
+}
+
 
