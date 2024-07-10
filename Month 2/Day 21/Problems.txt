@@ -2,3 +2,8 @@
 // String || Stack
 Link:
 https://leetcode.com/problems/crawler-log-folder
+
+Number of NGEs to the right
+// Array
+Link:
+https://bit.ly/3Np2R2H
