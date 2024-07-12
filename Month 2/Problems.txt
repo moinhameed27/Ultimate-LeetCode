@@ -160,5 +160,10 @@ Link:
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
 }
 
-
+Day --> 23
+{
+1717. Maximum Score From Removing Substrings
+Link:
+https://leetcode.com/problems/maximum-score-from-removing-substrings
+}
 
