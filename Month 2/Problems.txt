@@ -167,3 +167,10 @@ Link:
 https://leetcode.com/problems/maximum-score-from-removing-substrings
 }
 
+Day --> 24
+{
+2751. Robot Collisions
+Link:
+https://leetcode.com/problems/robot-collisions
+}
+
