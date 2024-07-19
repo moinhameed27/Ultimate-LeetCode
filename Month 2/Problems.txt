@@ -174,3 +174,10 @@ Link:
 https://leetcode.com/problems/robot-collisions
 }
 
+Day --> 25
+{
+1380. Lucky Numbers in a Matrix
+Link:
+https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
+}
+
