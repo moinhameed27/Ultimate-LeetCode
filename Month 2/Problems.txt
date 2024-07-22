@@ -188,3 +188,10 @@ Link:
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums
 }
 
+Day --> 27
+{
+2418. Sort the People
+Link:
+https://leetcode.com/problems/sort-the-people
+}
+
