@@ -195,3 +195,17 @@ Link:
 https://leetcode.com/problems/sort-the-people
 }
 
+Day --> 28
+{
+1636. Sort Array by Increasing Frequency
+Link:
+https://leetcode.com/problems/sort-array-by-increasing-frequency
+}
+
+Day --> 29
+{
+2191. Sort the Jumbled Numbers
+Link:
+https://leetcode.com/problems/sort-the-jumbled-numbers
+}
+
