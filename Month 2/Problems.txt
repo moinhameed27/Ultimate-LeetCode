@@ -209,3 +209,9 @@ Link:
 https://leetcode.com/problems/sort-the-jumbled-numbers
 }
 
+Day --> 30
+{
+912. Sort an Array
+Link:
+https://leetcode.com/problems/sort-an-array
+}
